@@ -1,0 +1,11 @@
+parameter,symbol,value_mm,ratio_to_D,notes
+cylinder_diameter,D,290,1.000,base diameter
+inlet_height,a,145,0.500,tangential inlet height
+inlet_width,b,58,0.200,tangential inlet width
+cylinder_height,h,435,1.500,barrel height
+cone_height,hc,725,2.500,cone length
+vortex_finder_diameter,De,145,0.500,outlet tube diameter
+vortex_finder_insert_length,s,145,0.500,immersed length
+cone_tip_diameter,Dd,109,0.376,dust outlet diameter
+inlet_length,Li,400,1.379,straight inlet duct length
+vortex_finder_total_length,Le,290,1.000,upper outlet pipe section
